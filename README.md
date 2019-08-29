@@ -1,4 +1,4 @@
-# City of Dexter, Michigan Ordinances
+# City of Dexter, Michigan – Ordinances
 
 ## Introduction
 
