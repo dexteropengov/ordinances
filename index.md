@@ -131,7 +131,7 @@ The Council shall elect from among its members a Mayor Pro-Tem who shall act in 
 
 #### Sec. 3.07. – Council's dealings with administrative services.
 
-Except for the purpose of inquiries and investigations under [Section 6.06](#sec.–6.06.-–-investigations.) of this charter, the Council Members shall deal with city officers and employees who are subject to the direction and supervision of the City Manager solely through the City Manager. Individual Council Members shall not give orders to any such officer or employee, either publicly or privately.
+Except for the purpose of inquiries and investigations under [Section 6.06](#sec-606--investigations) of this charter, the Council Members shall deal with city officers and employees who are subject to the direction and supervision of the City Manager solely through the City Manager. Individual Council Members shall not give orders to any such officer or employee, either publicly or privately.
 
 Neither the City Council nor any of its members shall in any manner control or demand the appointment or removal of any city administrative officer or employee whom the City Manager or any subordinate of the City Manager is empowered to appoint. The Council may express its views and fully and freely discuss with the City Manager anything pertaining to appointment and removal of such officers and employees.
 
