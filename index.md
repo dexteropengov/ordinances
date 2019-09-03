@@ -101,10 +101,10 @@ There shall be a City Council consisting of six (6) Council Members and the Mayo
 
 #### Sec. 3.03. – Term of office for mayor and council members.
 
-(a) There shall be a regular city election held in each odd numbered year. 
-(b) There shall be elected from the city at large, a Mayor for a term of four (4) years and six (6) Council Members for terms of four (4) years each. 
-(c) At one regular election, three (3) Council Members and the Mayor shall be elected. At the following regular election, three (3) Council Members shall be elected. 
-(d) All terms of office shall commence at the first regularly scheduled or special meeting of Council following the date of the election certification.
+- (a) There shall be a regular city election held in each odd numbered year. 
+- (b) There shall be elected from the city at large, a Mayor for a term of four (4) years and six (6) Council Members for terms of four (4) years each. 
+- (c) At one regular election, three (3) Council Members and the Mayor shall be elected. At the following regular election, three (3) Council Members shall be elected. 
+- (d) All terms of office shall commence at the first regularly scheduled or special meeting of Council following the date of the election certification.
 
 #### Sec. 3.04. – Compensation of mayor and council members.
 
@@ -114,15 +114,15 @@ The Council shall by ordinance set compensation to be received by the Mayor and 
 
 The Mayor shall:
 
-(a) Be a voting member of City Council and preside at all meetings of the Council without veto power, 
-(b) Authenticate by signature such instruments as may be required under provisions of law, 
-(c) Present an annual State of the City message at a time of year as determined by City Council; the Council may direct that the message be delivered at a public meeting; the message shall be distributed to residents using the city newsletter, 
-(d) Appoint the members of Council committees and assign agenda items to committees subject to the consent of Council, 
-(e) Appoint, with the advice and consent of the Council, the members of citizen advisory boards, committees, authorities and commissions, 
-(f) Be the chief executive officer of the city insofar as required by law and for all ceremonial purposes, 
-(g) Represent the city in intergovernmental relationships, 
-(h) Be the conservator of the peace and have the powers conferred by law upon sheriffs in times of emergency to suppress disorder, preserve the public peace and the health and safety of persons and property and have other emergency powers as permitted by state law, and 
-(i) Perform other duties specified by the Council.
+- (a) Be a voting member of City Council and preside at all meetings of the Council without veto power, 
+- (b) Authenticate by signature such instruments as may be required under provisions of law, 
+- (c) Present an annual State of the City message at a time of year as determined by City Council; the Council may direct that the message be delivered at a public meeting; the message shall be distributed to residents using the city newsletter, 
+- (d) Appoint the members of Council committees and assign agenda items to committees subject to the consent of Council, 
+- (e) Appoint, with the advice and consent of the Council, the members of citizen advisory boards, committees, authorities and commissions, 
+- (f) Be the chief executive officer of the city insofar as required by law and for all ceremonial purposes, 
+- (g) Represent the city in intergovernmental relationships, 
+- (h) Be the conservator of the peace and have the powers conferred by law upon sheriffs in times of emergency to suppress disorder, preserve the public peace and the health and safety of persons and property and have other emergency powers as permitted by state law, and 
+- (i) Perform other duties specified by the Council.
 
 #### Sec. 3.06. – Mayor pro-tem.
 
@@ -240,3 +240,41 @@ Any elected official may be recalled from office by the electors of the City in 
 
 The City Clerk shall give notice of the election as Mayor or Council Member within five (5) days after the certification of the election by the Board of Canvassers. If within twenty (20) days from the date of notice, such elected official shall not take, subscribe and file with the City Clerk their oath of office, such neglect shall be deemed a refusal to serve and the elected office shall thereupon be deemed vacant.
 
+### ARTICLE 5. – GENERAL PROVISIONS REGARDING OFFICERS AND PERSONNEL
+
+#### Sec. 5.01. – Eligibility of office.
+
+- (a) Any candidate for elected office must be a registered voter in the city for a minimum of one (1) year prior to the date of the election. A Council Member or Mayor who is appointed must be a registered voter of the city for a minimum of one (1) year prior to the date of appointment. 
+- (b) No person who is in default to the city shall be eligible for any elective or appointive position. The holding of office by any person who is in default shall create a vacancy unless such default shall be eliminated within thirty (30) days after written notice thereof has been served at the person's last known place of residence by the City Clerk, upon the direction of the Council; or unless the officer contests the liability for default in a court of competent jurisdiction. 
+- (c) No person who holds or has held an elected office for the city shall be eligible to hold any appointive office for which there is compensation paid by the city until one year has elapsed following retirement or resignation, unless a waiver is granted by the Council by two-thirds (2/3) vote. This provision shall not apply to appointments where nominal compensation may be paid by the city. 
+- (d) No administrative officer, person holding an appointive position, or employee shall hold an elective office of the city unless the person resigns the position with the city upon election or appointment to elective city office.
+
+#### Sec. 5.02. – Holding of appointive office or employment by relative of elective or administrative officer. 
+
+Unless the Council shall by two-thirds (2/3) vote record as part of its official proceedings, a determination that the best interests of the city shall be served, family members of any elective or administrative officer are disqualified from holding any appointive office or employment during the term for which said elective or appointive officer was elected or appointed. This section shall in no way disqualify such family members who are bona fide appointive officers or employees of the city at the time of the election or appointment of said official.
+
+#### Sec. 5.03. – Oath of office and bond required.
+
+Every officer, elective or appointive, before entering into the duties of that office, shall qualify by taking the oath of office prescribed for public officers by the Constitution of the State of Michigan, and by filing the oath with the City Clerk, together with any bond required by statute, this charter, or by the Council. In case of failure to comply with the provisions of this section within twenty (20) days from the date of notification of the person's election or appointment, such officer shall be deemed to have declined the office and such office shall thereupon become vacant unless the Council shall, by resolution, extend the time in which such officer may qualify as above set forth.
+
+#### Sec. 5.04. – Delivery of effects of office to successor or superior when officer or employee ceases to hold office.
+
+Whenever any officer or employee shall cease to hold such office or employment for any reason whatsoever, said officer or employee shall within five (5) days, or sooner on demand, deliver to the successor in office or to that officer's or employee's superior all the books, papers, money, equipment and effects that in any manner pertain to that office. Any officer violating this provision may be proceeded against in the same manner as public officers generally for a like offense under the laws of the State of Michigan.
+
+#### Sec. 5.05. – Vacancies, forfeiture of office, filling of vacancies.
+
+- (a) The office of Mayor or Council Member shall become vacant upon the member's death, resignation, or removal from office or forfeiture of office in any manner authorized by law. 
+- (b) A Mayor or Council Member shall forfeit that office if that Mayor or Council Member: 
+     - (1) Fails to meet the residency requirements, or 
+     - (2) Violates any express prohibition of this charter, or 
+     - (3) Is convicted of a crime involving moral turpitude, or 
+     - (4) Fails to attend three (3) consecutive regular meetings of the Council without being excused by the Council.
+     The City Council shall be the judge of the qualification of its members, and of the grounds for forfeiture of their office. In order to exercise these powers, the Council shall have power to subpoena witnesses, administer oaths and require the production of evidence. A Council Member charged with conduct constituting grounds for forfeiture of office shall be entitled to a public hearing on demand, and notice of such hearing shall be published in one (1) or more newspapers of general circulation in the city at least one (1) week in advance of the hearing.
+- (c) A vacancy in the office of Mayor or Council Member shall be filled in the following fashion: 
+     - (1) City Council shall appoint a qualified, registered city elector within sixty (60) days from the date the vacancy was created. The appointment shall be for the balance of the term if within thirty (30) months of the expiration of the term. If the unexpired term exceeds thirty (30) months, the appointee shall hold office only until the first council meeting following the date of the next regular city election, at which election the office shall be filled for the remainder of the term. 
+     - (2) If at any time the membership of the City Council is reduced to less than four (4), the remaining members may, by a majority vote of the members then on Council, fill such vacancies until the next regular November city election so that there are four (4) members of Council. Council shall then fill additional vacancies as provided in this section. 
+     - (3) Notwithstanding the foregoing, no vacancy in any elective office shall be filled in any manner if the term of the person whose office has become vacant expires within ninety (90) days after the vacancy occurs.
+
+#### Sec. 5.06. – Conflict of interest.
+
+The use of public office for private gain or the appearance of private gain is prohibited. The City Council shall implement this prohibition by ordinance. This ordinance shall include a statement of purpose and shall provide for reasonable public disclosure of finances by officials and staff who provide input into the decision of making significant monetary expenditures, contractor selection and regulatory matters, and insofar as permissible under state law shall provide for fines and imprisonment for violations.
