@@ -145,7 +145,7 @@ The residents of the city having the qualifications of electors in the State of 
 
 The election of the Mayor and six (6) Council Members shall be on a non-partisan basis. The general election statutes shall apply to and control all procedures relating to city elections, including qualification of electors, establishment of precincts, verification of petitions, registration of voters and voting hours. The City Clerk shall give public notice of each city election as required by Michigan Election Law.
 
-#### Sec. 4.03 – Precincts.
+#### Sec. 4.03. – Precincts.
 
 The election precincts of the city shall remain as they existed on the effective date of this charter unless altered by the Elections Commission in accordance with state law.
 
@@ -188,7 +188,7 @@ The City Clerk shall immediately notify the candidates in writing of the City Cl
 
 The City Clerk shall not accept nominating petitions for the election of any candidate for more than one office. However, if a candidate withdraws the filed petition for election to any elective office prior to the last day for filing petitions, the candidate may thereafter file petitions for another office by the last day for filing petitions.
 
-#### Sec. 4.12 – Nominations–Withdrawal of candidate.
+#### Sec. 4.12. – Nominations–Withdrawal of candidate.
 
 After the filing of a nominating petition by or on behalf of a proposed candidate for a city office, the candidate shall not be permitted to withdraw, unless a written notice of withdrawal is served on the City Clerk not later than 4:00 p.m. on the third business day after the last day for filing petitions as provided for in this charter.
 
@@ -208,7 +208,7 @@ The Commission shall appoint election personnel, including the Board of Election
 
 The compensation of the election personnel, including the Board of Election Inspectors, shall be determined, in advance, by the Council.
 
-#### Sec. 4.15 – Form of ballot.
+#### Sec. 4.15. – Form of ballot.
 
 The form, printing and numbering of ballots, or the preparation of the voting machines used in any city election, shall conform to that prescribed by statute, execpt that no party designation or emblem shall appear.
 
@@ -216,7 +216,7 @@ The form, printing and numbering of ballots, or the preparation of the voting ma
 
 The City Clerk shall be responsible for the custody and safekeeping of all registration lists and supplies.
 
-#### Sec. 4.17 – Absentee ballots.
+#### Sec. 4.17. – Absentee ballots.
 
 The electors of the city shall be entitled to vote by absentee ballots at any city election as provided by statute.
 
