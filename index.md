@@ -126,7 +126,7 @@ The Mayor shall:
 
 #### Sec. 3.06. – Mayor pro-tem.
 
-The Council shall elect from among its members a Mayor Pro-Tem who shall act in place of the Mayor in the absence or disability of the Mayor and serve as Mayor on an interim basis in the case of a vacancy in that office until the Mayor returns to office or the vacancy is filled in accordance with [Section 5.05.](#sec.-5.05.-–-vacancies,-forfeiture-of-office,-filling-of-vacancies.)
+The Council shall elect from among its members a Mayor Pro-Tem who shall act in place of the Mayor in the absence or disability of the Mayor and serve as Mayor on an interim basis in the case of a vacancy in that office until the Mayor returns to office or the vacancy is filled in accordance with [Section 5.05.](#sec-505--vacancies-forfeiture-of-office-filling-of-vacancies)
 
 #### Sec. 3.07. – Council's dealings with administrative services.
 
