@@ -23,7 +23,7 @@ AN ORDINANCE ADOPTING AND ENACTING A NEW CODE FOR THE CITY OF DEXTER, MICHIGAN; 
 
 THE CITY OF DEXTER ORDAINS:
 
-Section 1 . The Code entitled "Code of Ordinances, City of Dexter, Michigan," Published by Municipal Code Corporation, consisting of chapters 1 through 62, each inclusive, is adopted.
+1 . The Code entitled "Code of Ordinances, City of Dexter, Michigan," Published by Municipal Code Corporation, consisting of chapters 1 through 62, each inclusive, is adopted.
 
 Section 2 . All ordinances of a general and permanent nature enacted on or before September 11, 2017, and not included in the Code or recognized and continued in force by reference therein, are repealed.
 
@@ -59,6 +59,7 @@ Effective Date: September 18, 2017
 ## PART I – CHARTER
 
 ### ARTICLE 1. – NAME AND BOUNDRIES
+
 #### Sec. 1.01. – Name.
 
 The Municipal Corporation now existing and known as the Village of Dexter shall continue as a body corporate and shall henceforth be known as and include the territory constituting the City of Dexter, Washtenaw County, State of Michigan, on the effective date of this charter.
@@ -278,3 +279,38 @@ Whenever any officer or employee shall cease to hold such office or employment f
 #### Sec. 5.06. – Conflict of interest.
 
 The use of public office for private gain or the appearance of private gain is prohibited. The City Council shall implement this prohibition by ordinance. This ordinance shall include a statement of purpose and shall provide for reasonable public disclosure of finances by officials and staff who provide input into the decision of making significant monetary expenditures, contractor selection and regulatory matters, and insofar as permissible under state law shall provide for fines and imprisonment for violations.
+
+### ARTICLE 6. – CITY COUNCIL–PROCEDURES, POWERS AND DUTIES
+
+#### Sec. 6.01. – Regular meetings.
+
+The Council shall meet twice a month at such times and places as the Council may prescribe by rule.
+
+#### Sec. 6.02. – Special meetings.
+
+Special meetings may be held on the call of the Mayor or of three (3) or more Council Members in accordance with the Open Meetings Act. Notice shall be given via e-mail and either served personally or left at the Council Member's usual place of residence no less than eighteen (18) hours prior to the time of such meeting. Subject to the requirements of the Open Meetings Act, the City Council may meet in emergency session on shorter notice in the event of a severe and imminent threat to the health, safety or welfare of the public.
+
+#### Sec. 6.03. – Meetings to be in compliance with Open Meetings Act.
+
+All meetings of the City Council shall be held in compliance with the Open Meetings Act.
+
+#### Sec. 6.04. – Quorum. 
+
+Four (4) members of the Council shall be a quorum for the transaction of business at all meetings of the Council. In the absence of a quorum, any number of members less than a quorum may adjourn any regular or special meeting to a later date.
+
+
+#### Sec. 6.05. – Organization, rules and order of business.
+
+Each Council shall determine its own organization, rules and order of business subject to the following provisions:
+
+- (a) The City Clerk shall keep, in the English language, a journal (minutes) of the proceedings of each meeting, which shall be signed by the presiding officer and City Clerk. 
+- (b) Voting, except on procedural motions, shall be by roll call and the ayes and nays shall be recorded in the journal.
+
+#### Sec. 6.06. – Investigations.
+
+The City Council shall establish by ordinance the procedure to make investigations into the affairs of the city and the conduct of any city department, office, or agency.
+
+#### Sec. 6.07. – Public peace, health and safety.
+
+The City Council shall see that provision is made for the public peace and health, and for the safety of persons and property.
+
