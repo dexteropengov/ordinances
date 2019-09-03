@@ -126,11 +126,117 @@ The Mayor shall:
 
 #### Sec. 3.06. – Mayor pro-tem.
 
-The Council shall elect from among its members a Mayor Pro-Tem who shall act in place of the Mayor in the absence or disability of the Mayor and serve as Mayor on an interim basis in the case of a vacancy in that office until the Mayor returns to office or the vacancy is filled in accordance with Section 5.05.
+The Council shall elect from among its members a Mayor Pro-Tem who shall act in place of the Mayor in the absence or disability of the Mayor and serve as Mayor on an interim basis in the case of a vacancy in that office until the Mayor returns to office or the vacancy is filled in accordance with [Section 5.05.](#sec.-5.05.-–-vacancies,-forfeiture-of-office,-filling-of-vacancies.)
 
 #### Sec. 3.07. – Council's dealings with administrative services.
 
 Except for the purpose of inquiries and investigations under [Section 6.06](#sec.–6.06.-–-investigations.) of this charter, the Council Members shall deal with city officers and employees who are subject to the direction and supervision of the City Manager solely through the City Manager. Individual Council Members shall not give orders to any such officer or employee, either publicly or privately.
 
 Neither the City Council nor any of its members shall in any manner control or demand the appointment or removal of any city administrative officer or employee whom the City Manager or any subordinate of the City Manager is empowered to appoint. The Council may express its views and fully and freely discuss with the City Manager anything pertaining to appointment and removal of such officers and employees.
+
+### ARTICLE 4. – ELECTIONS.
+
+#### Sec. 4.01. – Qualifications of electors.
+
+The residents of the city having the qualifications of electors in the State of Michigan who are registered in the city shall be electors in the city.
+
+#### Sec. 4.02. – Procedure. 
+
+The election of the Mayor and six (6) Council Members shall be on a non-partisan basis. The general election statutes shall apply to and control all procedures relating to city elections, including qualification of electors, establishment of precincts, verification of petitions, registration of voters and voting hours. The City Clerk shall give public notice of each city election as required by Michigan Election Law.
+
+#### Sec. 4.03 – Precincts.
+
+The election precincts of the city shall remain as they existed on the effective date of this charter unless altered by the Elections Commission in accordance with state law.
+
+#### Sec. 4.04. – Date of regular city elections.
+
+A non-partisan regular city election shall be held on the first Tuesday following the first Monday of November of odd numbered years.
+
+#### Sec. 4.05. – Special elections dates.
+
+Unless otherwise specified by this charter, special city elections shall be called by resolution of the Council in accordance with state law. Any resolution calling a special election shall set forth the purpose of such election. There shall be no more than two (2) special elections in one (1) calendar year, unless otherwise permitted or required by state law.
+
+#### Sec. 4.06. – Notice.
+
+Notice of the time and place of holding any city election and of the offices to be filled and the questions to be voted upon shall be given by the City Clerk as provided in the state law.
+
+#### Sec. 4.07. – Voting hours.
+
+The polls of all elections shall be opened and closed in accordance with state law.
+
+#### Sec. 4.08. – Nominations–General.
+
+The method of nomination for all candidates for city offices shall be by petition as set forth in state law.
+
+#### Sec. 4.09. – Nominations–Form of petition.
+
+The form shall be as designated by the Secretary of State for the nomination of non-partisan officers. The City Clerk shall provide and maintain a supply of official petition forms.
+
+
+#### Sec. 4.10. – Nominations–Approval of petitions.
+
+The City Clerk shall only accept nominating petitions which conform with the forms provided and maintained by the City Clerk. The nominating petitions shall be submitted in accordance with the state deadline for filing petitions. The City Clerk shall publish a notice with the filing deadline a minimum of four (4) weeks prior to the deadline.
+
+The petition sheet(s) shall contain a minimum of fifteen (15) and a maximum of thirty (30) signatures of registered city electors. Petitions shall be accepted only when accompanied by an Affidavit of Identity as required by Michigan Election Law.
+
+The City Clerk shall, within two (2) business days after filing, examine the petitions and investigate the validity and genuineness of signatures submitted; and, after the last day specified for receiving and filing nominating petitions, shall certify to the Election Commission the name and post office address of each candidate whose petitions meet the requirements set forth in the election act.
+
+The City Clerk shall immediately notify the candidates in writing of the City Clerk's determination. Objections to the City Clerk's determination shall be filed by sworn complaint with the County Clerk or as otherwise provided by state law.
+
+#### Sec. 4.11. – Nominations–Candidates to run for one office only.
+
+The City Clerk shall not accept nominating petitions for the election of any candidate for more than one office. However, if a candidate withdraws the filed petition for election to any elective office prior to the last day for filing petitions, the candidate may thereafter file petitions for another office by the last day for filing petitions.
+
+#### Sec. 4.12 – Nominations–Withdrawal of candidate.
+
+After the filing of a nominating petition by or on behalf of a proposed candidate for a city office, the candidate shall not be permitted to withdraw, unless a written notice of withdrawal is served on the City Clerk not later than 4:00 p.m. on the third business day after the last day for filing petitions as provided for in this charter.
+
+#### Sec. 4.13. – Public inspection of petitions.
+
+All nominating petitions filed shall be open to public inspection in the office of the City Clerk.
+
+#### Sec. 4.14. – Election commission–Created, composition, duties, and compensation.
+
+An Election Commission is hereby created consisting of the City Clerk, who shall serve as the Chair, and two members appointed by City Council. The members appointed by City Council shall be one (1) qualified registered city elector and one (1) member of City Council. The City Attorney shall serve as an ex-officio (non-voting) member.
+
+The Election Commission shall be appointed for a term of two (2) years as part of the Council's adoption of the Resolution of Organizational Matters. The qualified registered elector and City Council Member of the Election Commission shall be persons whose names will not appear on the ballot for any elective office during their terms on the Commission. The Council shall determine compensation, if any, of the members of the Election Commission.
+
+Two (2) members of the board shall constitute a quorum.
+
+The Commission shall appoint election personnel, including the Board of Election Inspectors for each precinct, and have charge of all activities and duties required of it by statute and this charter relating to the conduct of elections in the city. In any case where election procedure is in doubt, the Election Commission shall prescribe the procedure to be followed.
+
+The compensation of the election personnel, including the Board of Election Inspectors, shall be determined, in advance, by the Council.
+
+#### Sec. 4.15 – Form of ballot.
+
+The form, printing and numbering of ballots, or the preparation of the voting machines used in any city election, shall conform to that prescribed by statute, execpt that no party designation or emblem shall appear.
+
+#### Sec. 4.16. – Custody and safekepping of registration lists and supplies.
+
+The City Clerk shall be responsible for the custody and safekeeping of all registration lists and supplies.
+
+#### Sec. 4.17 – Absentee ballots.
+
+The electors of the city shall be entitled to vote by absentee ballots at any city election as provided by statute.
+
+#### Sec. 4.18 – Determination of election ending in a tie vote.
+
+If, at any city election, there shall be no choice between candidates by reason of two (2) or more persons having received an equal number of votes, then the Washtenaw County Board of Canvassers shall name a date for the appearance of such persons for the purpose of determining the election of such candidates by lot as provided by statute.
+
+#### Sec. 4.19. – Recount.
+
+A recount of the votes cast at any city election for any office or upon any proposition may be had in accordance with the state statute.
+
+#### Sec. 4.20. – Interim election cycle.
+
+The City Council and Mayor shall be elected subject to Section 16.05 of this charter.
+
+
+#### Sec. 4.21. – Recall.
+
+Any elected official may be recalled from office by the electors of the City in the manner provided by statute.
+
+#### Sec. 4.22. – Notice of election, acceptance of office.
+
+The City Clerk shall give notice of the election as Mayor or Council Member within five (5) days after the certification of the election by the Board of Canvassers. If within twenty (20) days from the date of notice, such elected official shall not take, subscribe and file with the City Clerk their oath of office, such neglect shall be deemed a refusal to serve and the elected office shall thereupon be deemed vacant.
 
